@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-wDB", "WebApplication1\WebApi-wDB.csproj", "{653676E8-DBF9-4F7B-B961-564464928543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653676E8-DBF9-4F7B-B961-564464928543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653676E8-DBF9-4F7B-B961-564464928543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653676E8-DBF9-4F7B-B961-564464928543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653676E8-DBF9-4F7B-B961-564464928543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9BA3FE-F2F6-4D97-B025-3028257A928E}
+	EndGlobalSection
+EndGlobal
